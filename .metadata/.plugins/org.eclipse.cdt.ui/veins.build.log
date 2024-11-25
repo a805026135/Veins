@@ -1,0 +1,8 @@
+16:57:51 **** Incremental Build of configuration gcc-release for project veins ****
+make MODE=release -j16 all 
+make[1]: Entering directory '/d/Venis/workplace/workplace1/veins/src'
+make[1]: Nothing to be done for 'all'.
+make[1]: Leaving directory '/d/Venis/workplace/workplace1/veins/src'
+
+16:57:52 Build Finished (took 536ms)
+
